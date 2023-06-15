@@ -8,3 +8,5 @@ https://www.seade.gov.br/coronavirus/#
 https://github.com/seade-R/dados-covid-sp
 
 https://www.seade.gov.br/
+
+https://github.com/seade-R/dados-covid-sp/blob/master/data/dicionario_de_dados_srag_hospitalizado_atual-sivepgripe.pdf
